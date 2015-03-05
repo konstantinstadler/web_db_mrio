@@ -1,6 +1,6 @@
 Abstract.tex
 Intro_header.tex
-intro_scope.tex
+intro_why.tex
 intro_cba.tex
 intro_mrio_dev.tex
 MRIOs_header.tex

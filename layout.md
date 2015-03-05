@@ -7,6 +7,7 @@ intro_solution.tex
 intro_structure.tex
 mrio_overview.tex
 EXIOBASE.tex
+WIOD.tex
 MRIOs_header.tex
 DB_desc_header.tex
 Conclusion.tex

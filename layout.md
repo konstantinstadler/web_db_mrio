@@ -10,4 +10,5 @@ EXIOBASE.tex
 WIOD.tex
 DB_desc_header.tex
 Method_calculation.tex
+Method_web.tex
 Conclusion.tex

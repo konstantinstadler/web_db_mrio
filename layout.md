@@ -13,4 +13,5 @@ Method_calculation.tex
 Method_web.tex
 tool_desc.tex
 tool_view.tex
+tool_compare.tex
 Conclusion.tex

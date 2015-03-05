@@ -16,3 +16,4 @@ tool_view.tex
 tool_compare.tex
 tool_download.tex
 Conclusion.tex
+compare.tex

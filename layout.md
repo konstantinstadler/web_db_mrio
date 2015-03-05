@@ -6,6 +6,7 @@ intro_mrio_analysis.tex
 intro_solution.tex
 intro_structure.tex
 mrio_overview.tex
+EXIOBASE.tex
 MRIOs_header.tex
 DB_desc_header.tex
 Conclusion.tex

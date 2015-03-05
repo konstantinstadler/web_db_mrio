@@ -9,4 +9,5 @@ mrio_overview.tex
 EXIOBASE.tex
 WIOD.tex
 DB_desc_header.tex
+Method_calculation.tex
 Conclusion.tex

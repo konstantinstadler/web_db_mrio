@@ -1,8 +1,8 @@
 Abstract.tex
+intro_why.tex
 Intro_header.tex
 intro_solution.tex
 intro_structure.tex
-intro_why.tex
 intro_mrio_analysis.tex
 intro_accounting.tex
 intro_cba.tex

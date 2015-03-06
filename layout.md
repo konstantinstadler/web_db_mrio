@@ -18,5 +18,6 @@ tool_view.tex
 tool_compare.tex
 tool_download.tex
 Conclusion.tex
+conc_summary.tex
 compare.tex
 policy_relevance.tex

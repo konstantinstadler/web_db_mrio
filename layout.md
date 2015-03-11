@@ -1,4 +1,3 @@
-figures/web1/Figure 1 caption.tex
 Abstract.tex
 abstr_text.tex
 Intro_header.tex
@@ -6,6 +5,7 @@ intro_why.tex
 intro_mrio_analysis.tex
 intro_solution.tex
 figures/web1/web1.jpg
+figures/web1/Figure 1 caption.tex
 intro_structure.tex
 intro_accounting.tex
 intro_cba.tex

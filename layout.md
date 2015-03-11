@@ -2,6 +2,7 @@ Abstract.tex
 abstr_text.tex
 Intro_header.tex
 intro_why.tex
+figures/web1/web1.jpg
 intro_mrio_analysis.tex
 intro_solution.tex
 intro_structure.tex
@@ -15,7 +16,6 @@ Method_calculation.tex
 dev_agg.tex
 Method_web.tex
 tool_desc.tex
-figures/web1/web1.jpg
 tool_view.tex
 tool_compare.tex
 concl_unique.tex

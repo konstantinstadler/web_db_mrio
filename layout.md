@@ -15,6 +15,7 @@ Method_calculation.tex
 dev_agg.tex
 Method_web.tex
 tool_desc.tex
+figures/web1/web1.jpg
 tool_view.tex
 tool_compare.tex
 concl_unique.tex

@@ -18,6 +18,7 @@ dev_agg.tex
 Method_web.tex
 tool_desc.tex
 tool_view.tex
+figures/web4/web4.jpg
 tool_compare.tex
 concl_unique.tex
 conc_outlook.tex

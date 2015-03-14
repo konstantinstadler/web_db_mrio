@@ -22,6 +22,7 @@ tool_view.tex
 figures/web4/web4.jpg
 tool_compare.tex
 conc_features.tex
+concl_goals.tex
 concl_unique.tex
 conc_outlook.tex
 tool_download.tex

@@ -27,7 +27,7 @@ conc_outlook.tex
 tool_download.tex
 figures/web6/web6.jpg
 figures/web7/web7.jpg
-concl_goals.tex
 Conclusion.tex
+concl_goals.tex
 conc_summary.tex
 compare.tex

@@ -12,6 +12,7 @@ intro_cba.tex
 mrio_overview.tex
 EXIOBASE.tex
 WIOD.tex
+2.2.3 Eora.tex
 DB_desc_header.tex
 Method_calculation.tex
 draftnote_algo.tex

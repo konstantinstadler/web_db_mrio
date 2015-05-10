@@ -14,7 +14,6 @@ WIOD.tex
 Eora.tex
 DB_desc_header.tex
 Method_calculation.tex
-draftnote_algo.tex
 dev_agg.tex
 Method_web.tex
 tool_desc.tex

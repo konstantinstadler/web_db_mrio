@@ -19,6 +19,7 @@ Method_web.tex
 tool_desc.tex
 tool_view.tex
 figures/web4/web4.jpg
+figures/mrioweb/mrioweb.png
 tool_compare.tex
 conc_features.tex
 concl_unique.tex

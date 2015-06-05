@@ -3,8 +3,7 @@ Intro_header.tex
 intro_why.tex
 intro_mrio_analysis.tex
 intro_solution.tex
-figures/web1/web1.jpg
-figures/web1/startpage caption.tex
+figures/web2/web2.jpg
 intro_structure.tex
 intro_accounting.tex
 intro_cba.tex

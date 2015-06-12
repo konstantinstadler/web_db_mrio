@@ -16,10 +16,10 @@ Normalising intermediate production (to produce one unit of output, we can calcu
 Then we can combine the above two equations, using what has been known as the Leontief inverse $\textbf{L} = \textbf{I}-\textbf{A})^{-1}$, to estimate the total output ($\textbf{x*}$) for a given demand $\textbf{y}$:
 
 \begin{equation}
-\textbf{x*}=(\textbf{I}-\textbf{A})^{-1} * \textbf{y*}
+\textbf{x*}=\textbf{L} * \textbf{y*}
 \end{equation}
 
 In MRIO modelling, for a certain demand, in a certain country, the production required to satisfy the demand is calculated. The point of departure from national accounting in gross domestic product terms is that imports are endogenised in the flows of goods to demands, and exports are excluded from a country’s demand – in line with gross national expenditure calculations. A second point of departure from available input-output tables is that generalizing the input-output table for environmental inputs or emissions to the environment is required. Similar to the $\textbf{A}$ matrix of intermediate coefficients, a matrix of environmental interventions (environmental stressors) per unit output $\textbf{S}$ is used to calculate the overall environmental impact $\textbf{F*}$ associated with a certain demand \textbf{y*} 
 \begin{equation}
-\textbf{F*} = \textbf{S}Ly*}
+\textbf{F*} = \textbf{S} * L * y*
 \end{equation}

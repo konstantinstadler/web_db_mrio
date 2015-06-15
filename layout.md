@@ -23,6 +23,6 @@ tool_view.tex
 figures/mrioweb/selection.PNG
 tool_compare.tex
 tool_download.tex
-figures/web6/web6.jpg
+figures/web6/compare.PNG
 figures/web7/web7.jpg
 Conclusion.tex

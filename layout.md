@@ -22,8 +22,8 @@ tool_desc.tex
 tool_view.tex
 figures/mrioweb/selection.PNG
 tool_compare.tex
-tool_download.tex
 figures/web6/compare.PNG
+tool_download.tex
 figures/web7/barchart.PNG
 figures/linechart/linechart.PNG
 Conclusion.tex

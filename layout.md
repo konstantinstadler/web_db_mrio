@@ -24,5 +24,5 @@ figures/mrioweb/selection.PNG
 tool_compare.tex
 tool_download.tex
 figures/web6/compare.PNG
-figures/web7/web7.jpg
+figures/web7/barchart.PNG
 Conclusion.tex

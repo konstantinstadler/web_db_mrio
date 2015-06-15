@@ -9,6 +9,7 @@ intro_accounting.tex
 intro_cba.tex
 mrio_overview.tex
 EXIOBASE.tex
+OPENEU.tex
 WIOD.tex
 Eora.tex
 DB_desc_header.tex

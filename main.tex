@@ -1,4 +1,4 @@
-\documentclass[12pt,letterpaper]{report}
+\documentclass[12pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
 \usepackage{amsfonts}
@@ -23,10 +23,11 @@
 \input{intro_mrio_analysis}
 \input{intro_solution}
 
-\begin{figure}[h!]
+\begin{figure}[ht!]
 \centering
-\includegraphics[width=1.0\columnwidth]{figures/web1/web1.jpg}
-\label{fig:startpage} The Environmental Footprints Explorer 
+\includegraphics[width=1.0\columnwidth]{figures/web2/web2.jpg}
+\caption{\protect\input{./figures/web2/caption}}
+
 \end{figure}
 
 \input{intro_structure}
@@ -43,10 +44,10 @@
 \input{tool_desc}
 \input{tool_view}
 
-\begin{figure}[h!]
+\begin{figure}[ht!]
 \centering
 \includegraphics[width=1.0\columnwidth]{figures/mrioweb/mrioweb.png}
-Fig. 2 The Environmental Footprint Explorer aim to ease the data extraction from global EE MRIO databases. Users can select between different databases and specify the perspectives, region and sectors they are interested in.
+\caption{\protect\input{./figures/mrioweb/caption}}
 \end{figure}
 
 \input{tool_compare}
@@ -55,17 +56,19 @@ Fig. 2 The Environmental Footprint Explorer aim to ease the data extraction from
 \input{conc_outlook}
 \input{tool_download}
 
-\begin{figure}[h!]
+\begin{figure}[ht!]
 \centering
 \includegraphics[width=1.0\columnwidth]{figures/web6/web6.jpg}
-\label{fig:table} Results of a data query are presented as a table.
+\caption{\protect\input{./figures/web6/caption}}
+
 \end{figure}
 
 
-\begin{figure}[h!]
+\begin{figure}[ht!]
 \centering
 \includegraphics[width=1.0\columnwidth]{figures/web7/web7.jpg}
-\label{fig:bar} An automatic visualization procedure provides a quick overview about the extracted data.
+\caption{\protect\input{./figures/web7/caption}}
+
 \end{figure}
 
 \input{Conclusion}

@@ -119,13 +119,19 @@ def convert_layout_line(line):
         return '\input{' + clean_line + '}\n'
     else:
         figpath = os.path.split('./' + line.rsplit('\n')[0])[0]
+        #caption_lines = []
+        #for texfile in [tf for tf in os.listdir(figpath) if '.tex' in tf and tf != 'size.tex']:
+            #with open(os.path.join(figpath,texfile), 'r') as inpfile:
+                #caption_lines += inpfile.readlines()
         caption_lines = []
-        for texfile in [tf for tf in os.listdir(figpath) if '.tex' in tf and tf != 'size.tex']:
-            with open(os.path.join(figpath,texfile), 'r') as inpfile:
-                caption_lines += inpfile.readlines()
+        if 'caption.tex' in os.listdir(figpath):
+            caption_lines = [
+                    r'\caption{\protect\input{' +
+                    figpath + '/caption}}' + '\n'
+                    ]
         fig_env = [
                 '\n',
-                r'\begin{figure}[h!]' + '\n',
+                r'\begin{figure}[ht!]' + '\n',
                 r'\centering' + '\n',
 	            r'\includegraphics[width=1.0\columnwidth]{' + line.rsplit('\n')[0] + '}\n'
                 ] + caption_lines + [

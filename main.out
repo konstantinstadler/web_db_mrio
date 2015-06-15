@@ -1,9 +1,13 @@
-\BOOKMARK [1][-]{section.0.1}{Introduction}{}% 1
-\BOOKMARK [2][-]{subsection.0.1.1}{Environmental Accounting}{section.0.1}% 2
-\BOOKMARK [2][-]{subsection.0.1.2}{EE MRIO database}{section.0.1}% 3
-\BOOKMARK [1][-]{section.0.2}{Development}{}% 4
-\BOOKMARK [1][-]{section.0.3}{Tool description}{}% 5
-\BOOKMARK [2][-]{subsection.0.3.1}{Viewing EE MRIO accounts based on a specific database}{section.0.3}% 6
-\BOOKMARK [2][-]{subsection.0.3.2}{Comparing accounts across databases in a common classification}{section.0.3}% 7
-\BOOKMARK [2][-]{subsection.0.3.3}{Downloading results and API}{section.0.3}% 8
-\BOOKMARK [1][-]{section.0.4}{Conclusion and outlook}{}% 9
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Environmental Accounting}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{EE MRIO database}{section.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.2.1}{EXIOBASE}{subsection.1.2}% 4
+\BOOKMARK [3][-]{subsubsection.1.2.2}{OPEN:EU}{subsection.1.2}% 5
+\BOOKMARK [3][-]{subsubsection.1.2.3}{WIOD}{subsection.1.2}% 6
+\BOOKMARK [3][-]{subsubsection.1.2.4}{2.2.3 Eora}{subsection.1.2}% 7
+\BOOKMARK [1][-]{section.2}{Development}{}% 8
+\BOOKMARK [1][-]{section.3}{Tool description}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Viewing EE MRIO accounts based on a specific database}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{Comparing accounts across databases in a common classification}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.3}{Downloading results and API}{section.3}% 12
+\BOOKMARK [1][-]{section.4}{Conclusion and outlook}{}% 13

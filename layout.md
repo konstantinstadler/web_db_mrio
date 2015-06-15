@@ -25,4 +25,3 @@ figures/web6/web6.jpg
 figures/web7/web7.jpg
 Conclusion.tex
 compare.tex
-concl_goals.tex

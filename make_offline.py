@@ -47,7 +47,7 @@ def add_front(header = None, maketitle = True, fill_standard = True,):
         start += [r'\input{' + ff.rsplit('.tex')[0] + '}' + '\n' for ff in header]
     elif fill_standard:
         start += [
-                r'\documentclass[12pt,letterpaper]{report}' + '\n',
+                r'\documentclass[12pt,letterpaper]{article}' + '\n',
                 r'\usepackage[utf8]{inputenc}' + '\n',
                 r'\usepackage{amsmath}' + '\n',
                 r'\usepackage{amsfonts}' + '\n',

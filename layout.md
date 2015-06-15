@@ -15,6 +15,7 @@ Eora.tex
 DB_desc_header.tex
 Method_calculation.tex
 dev_agg.tex
+begin_table_label_tab_cc_regions__.tex
 tableCC.tex
 Method_web.tex
 tool_desc.tex

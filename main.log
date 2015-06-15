@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.8.12)  15 JUN 2015 11:55
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.8.12)  15 JUN 2015 12:10
 entering extended mode
 **main.tex
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\main.tex
@@ -631,7 +631,7 @@ Package natbib Warning: Citation `Moran_2014' on page 2 undefined on input line
 
 ) (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\intro_mrio_analysis.tex)
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\intro_solution.tex)
-<figures/web2/web2.jpg, id=60, 836.3747pt x 453.94594pt>
+<figures/web2/web2.jpg, id=64, 836.3747pt x 453.94594pt>
 File: figures/web2/web2.jpg Graphic file (type jpg)
 
 <use figures/web2/web2.jpg>
@@ -704,8 +704,16 @@ Overfull \hbox (6.06375pt too wide) in paragraph at lines 10--15
 tive EU projects:
  []
 
-) (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\OPENEU.tex)
-(D:\KST\proj\MRIO_web_db\txt\web_db_mrio\WIOD.tex
+) (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\OPENEU.tex
+
+Package natbib Warning: Citation `narayanan_global_2008' on page 4 undefined on
+ input line 3.
+
+
+Package natbib Warning: Citation `peters_constructing_2011' on page 4 undefined
+ on input line 3.
+
+) (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\WIOD.tex
 
 Package natbib Warning: Citation `timmer_world_2012' on page 4 undefined on inp
 ut line 5.
@@ -770,7 +778,7 @@ Overfull \hbox (0.42119pt too wide) in paragraph at lines 11--13
 m-bod-ied pres-
  []
 
-) <figures/mrioweb/mrioweb.png, id=107, 913.16156pt x 319.94531pt>
+) <figures/mrioweb/mrioweb.png, id=110, 913.16156pt x 319.94531pt>
 File: figures/mrioweb/mrioweb.png Graphic file (type png)
 
 <use figures/mrioweb/mrioweb.png>
@@ -797,7 +805,7 @@ e 1.
 ) (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\conc_outlook.tex)
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\tool_download.tex [10 <D:/KST/proj/MRI
 O_web_db/txt/web_db_mrio/figures/mrioweb/mrioweb.png>])
-<figures/web6/web6.jpg, id=123, 1000.48781pt x 423.83344pt>
+<figures/web6/web6.jpg, id=126, 1000.48781pt x 423.83344pt>
 File: figures/web6/web6.jpg Graphic file (type jpg)
 
 <use figures/web6/web6.jpg>
@@ -805,7 +813,7 @@ Package pdftex.def Info: figures/web6/web6.jpg used on input line 62.
 (pdftex.def)             Requested size: 390.0pt x 165.21675pt.
 
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\figures\web6\caption.tex)
-<figures/web7/web7.jpg, id=124, 583.42969pt x 300.3722pt>
+<figures/web7/web7.jpg, id=127, 583.42969pt x 300.3722pt>
 File: figures/web7/web7.jpg Graphic file (type jpg)
 
 <use figures/web7/web7.jpg>
@@ -860,22 +868,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 81.
  (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 81.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 81.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 4F8C45FE17BA498B6E73B4E4ABA429FF;842
-(rerunfilecheck)             After:  9992DAAE37921EC71EFDBD2C578EFDA9;910.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 9992DAAE37921EC71EFDBD2C578EFDA9;910.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 81.
  ) 
 Here is how much of TeX's memory you used:
- 6885 strings out of 493706
- 98331 string characters out of 3148279
+ 6888 strings out of 493706
+ 98401 string characters out of 3148279
  188534 words of memory out of 3000000
- 9952 multiletter control sequences out of 15000+200000
+ 9955 multiletter control sequences out of 15000+200000
  61999 words of font info for 58 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  29i,7n,32p,884b,389s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -885,9 +886,9 @@ ST/prog/MikTex/fonts/type1/public/lm/lmbx12.pfb><D:/KST/prog/MikTex/fonts/type1
 /public/lm/lmr12.pfb><D:/KST/prog/MikTex/fonts/type1/public/lm/lmr17.pfb><D:/KS
 T/prog/MikTex/fonts/type1/public/lm/lmr8.pfb><D:/KST/prog/MikTex/fonts/type1/pu
 blic/lm/lmsy10.pfb><D:/KST/prog/MikTex/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (13 pages, 500462 bytes).
+Output written on main.pdf (13 pages, 500699 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
+ 178 PDF objects out of 1000 (max. 8388607)
  41 named destinations out of 1000 (max. 500000)
- 117 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 125 words of extra memory for PDF output out of 10000 (max. 10000000)
 

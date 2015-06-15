@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.8.12)  15 JUN 2015 16:05
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.8.12)  15 JUN 2015 16:24
 entering extended mode
 **main.tex
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\main.tex
@@ -626,7 +626,7 @@ Package natbib Warning: Citation `Moran_2014' on page 2 undefined on input line
 
 ) (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\intro_mrio_analysis.tex)
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\intro_solution.tex)
-<figures/web2/web2.jpg, id=45, 836.3747pt x 453.94594pt>
+<figures/web2/web2.jpg, id=60, 836.3747pt x 453.94594pt>
 File: figures/web2/web2.jpg Graphic file (type jpg)
 
 <use figures/web2/web2.jpg>
@@ -774,7 +774,7 @@ Overfull \hbox (3.09721pt too wide) in paragraph at lines 11--13
 m-bod-ied stres-
  []
 
-[9]) <figures/mrioweb/mrioweb.png, id=110, 913.16156pt x 319.94531pt>
+[9]) <figures/mrioweb/mrioweb.png, id=113, 913.16156pt x 319.94531pt>
 File: figures/mrioweb/mrioweb.png Graphic file (type png)
 
 <use figures/mrioweb/mrioweb.png>
@@ -784,7 +784,7 @@ Package pdftex.def Info: figures/mrioweb/mrioweb.png used on input line 52.
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\figures\mrioweb\caption.tex)
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\figures\mrioweb\caption.tex)
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\tool_download.tex)
-<figures/web6/web6.jpg, id=113, 1000.48781pt x 423.83344pt>
+<figures/web6/web6.jpg, id=114, 1000.48781pt x 423.83344pt>
 File: figures/web6/web6.jpg Graphic file (type jpg)
 
 <use figures/web6/web6.jpg>
@@ -792,7 +792,7 @@ Package pdftex.def Info: figures/web6/web6.jpg used on input line 61.
 (pdftex.def)             Requested size: 390.0pt x 165.21675pt.
 
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\figures\web6\caption.tex)
-<figures/web7/web7.jpg, id=114, 583.42969pt x 300.3722pt>
+<figures/web7/web7.jpg, id=115, 583.42969pt x 300.3722pt>
 File: figures/web7/web7.jpg Graphic file (type jpg)
 
 <use figures/web7/web7.jpg>
@@ -802,21 +802,21 @@ Package pdftex.def Info: figures/web7/web7.jpg used on input line 69.
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\figures\web7\caption.tex)
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\figures\web7\caption.tex)
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\Conclusion.tex [10 <D:/KST/proj/MRIO_w
-eb_db/txt/web_db_mrio/figures/mrioweb/mrioweb.png>]
+eb_db/txt/web_db_mrio/figures/mrioweb/mrioweb.png>] [11 <D:/KST/proj/MRIO_web_d
+b/txt/web_db_mrio/figures/web6/web6.jpg> <D:/KST/proj/MRIO_web_db/txt/web_db_mr
+io/figures/web7/web7.jpg>]
 
-Package natbib Warning: Citation `Roelich_2014' on page 11 undefined on input l
+Package natbib Warning: Citation `Roelich_2014' on page 12 undefined on input l
 ine 9.
 
 
-Package natbib Warning: Citation `Lenzen_2013' on page 11 undefined on input li
+Package natbib Warning: Citation `Lenzen_2013' on page 12 undefined on input li
 ne 9.
 
 
-Package natbib Warning: Citation `tukker_global_2014' on page 11 undefined on i
+Package natbib Warning: Citation `tukker_global_2014' on page 12 undefined on i
 nput line 9.
 
-[11 <D:/KST/proj/MRIO_web_db/txt/web_db_mrio/figures/web6/web6.jpg> <D:/KST/pro
-j/MRIO_web_db/txt/web_db_mrio/figures/web7/web7.jpg>]
 
 Package natbib Warning: Citation `Hanson_2011' on page 12 undefined on input li
 ne 13.
@@ -852,72 +852,27 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 5510944EA116F295A7DE76EAAE8016FA;555
-(rerunfilecheck)             After:  2C641F92F2E3F64A244D80A0AE1EF133;797.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+(rerunfilecheck)             Before: 2C641F92F2E3F64A244D80A0AE1EF133;797
+(rerunfilecheck)             After:  428C8EA8AB03D09670C5E71F6F9792E6;797.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 77.
  ) 
 Here is how much of TeX's memory you used:
- 6881 strings out of 493706
- 97864 string characters out of 3148279
- 188574 words of memory out of 3000000
- 9951 multiletter control sequences out of 15000+200000
+ 6871 strings out of 493706
+ 97761 string characters out of 3148279
+ 188558 words of memory out of 3000000
+ 9955 multiletter control sequences out of 15000+200000
  61999 words of font info for 58 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  29i,7n,32p,887b,328s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{figure.0.4} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.0.3} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.0.2} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{table.0.1} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{equation.0.2.5} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.0.1} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.0.4} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.0.3.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.0.3.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.0.3} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.0.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.0.1.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.0.1.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.0.1} has been referenced but does not exist
-, replaced by a fixed one
-
-{D:/KST/prog/MikTex/fonts/enc/dvips/lm/lm-rm.enc}{D:/KST/prog/MikTex/fonts/enc/
-dvips/lm/lm-mathsy.enc}{D:/KST/prog/MikTex/fonts/enc/dvips/lm/lm-ec.enc}<D:/KST
-/prog/MikTex/fonts/type1/public/lm/lmbx12.pfb><D:/KST/prog/MikTex/fonts/type1/p
-ublic/lm/lmr12.pfb><D:/KST/prog/MikTex/fonts/type1/public/lm/lmr17.pfb><D:/KST/
-prog/MikTex/fonts/type1/public/lm/lmr8.pfb><D:/KST/prog/MikTex/fonts/type1/publ
-ic/lm/lmsy10.pfb><D:/KST/prog/MikTex/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (12 pages, 491730 bytes).
+{D:/KST/prog/MikTex/fonts/enc/dvips/lm/lm-rm.enc}{D:/KST/prog/MikTex/fonts/en
+c/dvips/lm/lm-mathsy.enc}{D:/KST/prog/MikTex/fonts/enc/dvips/lm/lm-ec.enc}<D:/K
+ST/prog/MikTex/fonts/type1/public/lm/lmbx12.pfb><D:/KST/prog/MikTex/fonts/type1
+/public/lm/lmr12.pfb><D:/KST/prog/MikTex/fonts/type1/public/lm/lmr17.pfb><D:/KS
+T/prog/MikTex/fonts/type1/public/lm/lmr8.pfb><D:/KST/prog/MikTex/fonts/type1/pu
+blic/lm/lmsy10.pfb><D:/KST/prog/MikTex/fonts/type1/public/lm/lmsy8.pfb>
+Output written on main.pdf (12 pages, 491522 bytes).
 PDF statistics:
- 172 PDF objects out of 1000 (max. 8388607)
- 53 named destinations out of 1000 (max. 500000)
- 85 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 166 PDF objects out of 1000 (max. 8388607)
+ 39 named destinations out of 1000 (max. 500000)
+ 117 words of extra memory for PDF output out of 10000 (max. 10000000)
 

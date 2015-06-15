@@ -21,8 +21,7 @@ Method_web.tex
 tool_desc.tex
 tool_view.tex
 figures/mrioweb/mrioweb.png
-tool_tool_download.tex
+tool_download.tex
 figures/web6/web6.jpg
 figures/web7/web7.jpg
 Conclusion.tex
-compare.tex

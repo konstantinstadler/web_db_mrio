@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.8.12)  15 JUN 2015 16:24
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.8.12)  15 JUN 2015 16:28
 entering extended mode
 **main.tex
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\main.tex
@@ -783,28 +783,43 @@ Package pdftex.def Info: figures/mrioweb/mrioweb.png used on input line 52.
 
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\figures\mrioweb\caption.tex)
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\figures\mrioweb\caption.tex)
-(D:\KST\proj\MRIO_web_db\txt\web_db_mrio\tool_download.tex)
-<figures/web6/web6.jpg, id=114, 1000.48781pt x 423.83344pt>
+(D:\KST\proj\MRIO_web_db\txt\web_db_mrio\tool_compare.tex
+
+Package natbib Warning: Citation `Steen_Olsen_2014' on page 10 undefined on inp
+ut line 5.
+
+
+Package natbib Warning: Citation `Stadler_2014' on page 10 undefined on input l
+ine 13.
+
+
+Package natbib Warning: Citation `Owen_2014' on page 10 undefined on input line
+ 13.
+
+
+Package natbib Warning: Citation `Moran_2014' on page 10 undefined on input lin
+e 13.
+
+) (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\tool_download.tex [10 <D:/KST/proj/M
+RIO_web_db/txt/web_db_mrio/figures/mrioweb/mrioweb.png>])
+<figures/web6/web6.jpg, id=118, 1000.48781pt x 423.83344pt>
 File: figures/web6/web6.jpg Graphic file (type jpg)
 
 <use figures/web6/web6.jpg>
-Package pdftex.def Info: figures/web6/web6.jpg used on input line 61.
+Package pdftex.def Info: figures/web6/web6.jpg used on input line 62.
 (pdftex.def)             Requested size: 390.0pt x 165.21675pt.
 
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\figures\web6\caption.tex)
-<figures/web7/web7.jpg, id=115, 583.42969pt x 300.3722pt>
+<figures/web7/web7.jpg, id=119, 583.42969pt x 300.3722pt>
 File: figures/web7/web7.jpg Graphic file (type jpg)
 
 <use figures/web7/web7.jpg>
-Package pdftex.def Info: figures/web7/web7.jpg used on input line 69.
+Package pdftex.def Info: figures/web7/web7.jpg used on input line 70.
 (pdftex.def)             Requested size: 390.0pt x 200.79456pt.
 
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\figures\web7\caption.tex)
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\figures\web7\caption.tex)
-(D:\KST\proj\MRIO_web_db\txt\web_db_mrio\Conclusion.tex [10 <D:/KST/proj/MRIO_w
-eb_db/txt/web_db_mrio/figures/mrioweb/mrioweb.png>] [11 <D:/KST/proj/MRIO_web_d
-b/txt/web_db_mrio/figures/web6/web6.jpg> <D:/KST/proj/MRIO_web_db/txt/web_db_mr
-io/figures/web7/web7.jpg>]
+(D:\KST\proj\MRIO_web_db\txt\web_db_mrio\Conclusion.tex [11]
 
 Package natbib Warning: Citation `Roelich_2014' on page 12 undefined on input l
 ine 9.
@@ -817,20 +832,22 @@ ne 9.
 Package natbib Warning: Citation `tukker_global_2014' on page 12 undefined on i
 nput line 9.
 
+[12 <D:/KST/proj/MRIO_web_db/txt/web_db_mrio/figures/web6/web6.jpg> <D:/KST/pro
+j/MRIO_web_db/txt/web_db_mrio/figures/web7/web7.jpg>]
 
-Package natbib Warning: Citation `Hanson_2011' on page 12 undefined on input li
+Package natbib Warning: Citation `Hanson_2011' on page 13 undefined on input li
 ne 13.
 
 
-Package natbib Warning: Citation `Stodden_2012' on page 12 undefined on input l
+Package natbib Warning: Citation `Stodden_2012' on page 13 undefined on input l
 ine 13.
 
 
-Package natbib Warning: Citation `Boulton_2012' on page 12 undefined on input l
+Package natbib Warning: Citation `Boulton_2012' on page 13 undefined on input l
 ine 13.
 
 )
-Overfull \hbox (120.3021pt too wide) in paragraph at lines 13--75
+Overfull \hbox (120.3021pt too wide) in paragraph at lines 13--76
 []\T1/lmr/m/n/12 Recently, the Eu-ro-pean Sci-ence Pol-icy (http://ec.europa.eu
 /programmes/horizon2020/en/h2020-
  []
@@ -839,12 +856,12 @@ No file main.bbl.
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
-[12]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 77.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
+[13]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
  (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 77.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 77.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
 
 
 Package rerunfilecheck Warning: File `main.out' has changed.
@@ -852,13 +869,16 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 2C641F92F2E3F64A244D80A0AE1EF133;797
-(rerunfilecheck)             After:  428C8EA8AB03D09670C5E71F6F9792E6;797.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 77.
+(rerunfilecheck)             Before: 428C8EA8AB03D09670C5E71F6F9792E6;797
+(rerunfilecheck)             After:  3F0930D39A1868DCC393672F4A9C82DD;917.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
  ) 
 Here is how much of TeX's memory you used:
- 6871 strings out of 493706
- 97761 string characters out of 3148279
+ 6876 strings out of 493706
+ 97906 string characters out of 3148279
  188558 words of memory out of 3000000
  9955 multiletter control sequences out of 15000+200000
  61999 words of font info for 58 fonts, out of 3000000 for 9000
@@ -870,9 +890,9 @@ ST/prog/MikTex/fonts/type1/public/lm/lmbx12.pfb><D:/KST/prog/MikTex/fonts/type1
 /public/lm/lmr12.pfb><D:/KST/prog/MikTex/fonts/type1/public/lm/lmr17.pfb><D:/KS
 T/prog/MikTex/fonts/type1/public/lm/lmr8.pfb><D:/KST/prog/MikTex/fonts/type1/pu
 blic/lm/lmsy10.pfb><D:/KST/prog/MikTex/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (12 pages, 491522 bytes).
+Output written on main.pdf (13 pages, 494118 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
- 39 named destinations out of 1000 (max. 500000)
+ 172 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
  117 words of extra memory for PDF output out of 10000 (max. 10000000)
 

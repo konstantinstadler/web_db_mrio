@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.8.12)  15 JUN 2015 12:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.8.12)  15 JUN 2015 14:14
 entering extended mode
 **main.tex
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\main.tex
@@ -598,13 +598,8 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 LaTeX Warning: No \author given.
 
-(D:\KST\proj\MRIO_web_db\txt\web_db_mrio\Abstract.tex
-Overfull \hbox (19.97351pt too wide) in paragraph at lines 5--6
-\T1/lmr/m/n/12 Ex-plorer, de-signed to ac-cess in-di-ca-tor re-sults cal-cu-lat
-ed based on these databases.
- []
-
-) (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\Intro_header.tex)
+(D:\KST\proj\MRIO_web_db\txt\web_db_mrio\Abstract.tex)
+(D:\KST\proj\MRIO_web_db\txt\web_db_mrio\Intro_header.tex)
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\intro_why.tex [1
 
 {D:/KST/prog/MikTex/pdftex/config/pdftex.map}]
@@ -683,9 +678,9 @@ page 3 undefined on input line 17.
 Package natbib Warning: Citation `Simas_2014' on page 3 undefined on input line
  18.
 
-) (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\mrio_overview.tex)
-(D:\KST\proj\MRIO_web_db\txt\web_db_mrio\EXIOBASE.tex [3 <D:/KST/proj/MRIO_web_
-db/txt/web_db_mrio/figures/web2/web2.jpg>]
+) (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\mrio_overview.tex [3 <D:/KST/proj/MR
+IO_web_db/txt/web_db_mrio/figures/web2/web2.jpg>])
+(D:\KST\proj\MRIO_web_db\txt\web_db_mrio\EXIOBASE.tex
 
 Package natbib Warning: Citation `Tukker_2013' on page 4 undefined on input lin
 e 10.
@@ -750,20 +745,20 @@ ne 53.
 LaTeX Warning: Float too large for page by 155.26584pt on input line 54.
 
 
-Overfull \hbox (108.20195pt too wide) in paragraph at lines 60--80
+Overfull \hbox (108.20195pt too wide) in paragraph at lines 59--79
 [][] 
  []
 
 
 Package natbib Warning: Citation `Steen_Olsen_2014' on page 6 undefined on inpu
-t line 81.
+t line 80.
 
 
 Package natbib Warning: Citation `Steen_Olsen_2014' on page 6 undefined on inpu
-t line 81.
+t line 80.
 
-) (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\Method_web.tex)
-(D:\KST\proj\MRIO_web_db\txt\web_db_mrio\tool_desc.tex [6] [7] [8])
+) (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\Method_web.tex [6] [7] [8])
+(D:\KST\proj\MRIO_web_db\txt\web_db_mrio\tool_desc.tex)
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\tool_view.tex
 LaTeX Font Info:    Try loading font information for OMS+lmr on input line 7.
 
@@ -786,9 +781,9 @@ Package pdftex.def Info: figures/mrioweb/mrioweb.png used on input line 50.
 (pdftex.def)             Requested size: 390.0pt x 136.64134pt.
 
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\figures\mrioweb\caption.tex)
-(D:\KST\proj\MRIO_web_db\txt\web_db_mrio\figures\mrioweb\caption.tex)
+(D:\KST\proj\MRIO_web_db\txt\web_db_mrio\figures\mrioweb\caption.tex) [9]
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\tool_compare.tex)
-(D:\KST\proj\MRIO_web_db\txt\web_db_mrio\conc_features.tex [9])
+(D:\KST\proj\MRIO_web_db\txt\web_db_mrio\conc_features.tex)
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\concl_unique.tex
 
 Package natbib Warning: Citation `Stadler_2014' on page 10 undefined on input l
@@ -802,9 +797,9 @@ Package natbib Warning: Citation `Owen_2014' on page 10 undefined on input line
 Package natbib Warning: Citation `Moran_2014' on page 10 undefined on input lin
 e 1.
 
-) (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\conc_outlook.tex)
-(D:\KST\proj\MRIO_web_db\txt\web_db_mrio\tool_download.tex [10 <D:/KST/proj/MRI
-O_web_db/txt/web_db_mrio/figures/mrioweb/mrioweb.png>])
+[10 <D:/KST/proj/MRIO_web_db/txt/web_db_mrio/figures/mrioweb/mrioweb.png>])
+(D:\KST\proj\MRIO_web_db\txt\web_db_mrio\conc_outlook.tex)
+(D:\KST\proj\MRIO_web_db\txt\web_db_mrio\tool_download.tex)
 <figures/web6/web6.jpg, id=126, 1000.48781pt x 423.83344pt>
 File: figures/web6/web6.jpg Graphic file (type jpg)
 
@@ -838,8 +833,8 @@ ne 5.
 Package natbib Warning: Citation `tukker_global_2014' on page 12 undefined on i
 nput line 5.
 
-) (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\concl_goals.tex [12 <D:/KST/proj/MRI
-O_web_db/txt/web_db_mrio/figures/web7/web7.jpg>]
+[12 <D:/KST/proj/MRIO_web_db/txt/web_db_mrio/figures/web7/web7.jpg>])
+(D:\KST\proj\MRIO_web_db\txt\web_db_mrio\concl_goals.tex
 
 Package natbib Warning: Citation `Hanson_2011' on page 13 undefined on input li
 ne 3.
@@ -879,14 +874,14 @@ Here is how much of TeX's memory you used:
  9955 multiletter control sequences out of 15000+200000
  61999 words of font info for 58 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 29i,7n,32p,884b,389s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,7n,32p,884b,347s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/KST/prog/MikTex/fonts/enc/dvips/lm/lm-rm.enc}{D:/KST/prog/MikTex/fonts/en
 c/dvips/lm/lm-mathsy.enc}{D:/KST/prog/MikTex/fonts/enc/dvips/lm/lm-ec.enc}<D:/K
 ST/prog/MikTex/fonts/type1/public/lm/lmbx12.pfb><D:/KST/prog/MikTex/fonts/type1
 /public/lm/lmr12.pfb><D:/KST/prog/MikTex/fonts/type1/public/lm/lmr17.pfb><D:/KS
 T/prog/MikTex/fonts/type1/public/lm/lmr8.pfb><D:/KST/prog/MikTex/fonts/type1/pu
 blic/lm/lmsy10.pfb><D:/KST/prog/MikTex/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (13 pages, 500699 bytes).
+Output written on main.pdf (13 pages, 500875 bytes).
 PDF statistics:
  178 PDF objects out of 1000 (max. 8388607)
  41 named destinations out of 1000 (max. 500000)

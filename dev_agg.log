@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.8.12)  15 JUN 2015 09:39
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.8.12)  15 JUN 2015 14:14
 entering extended mode
 **dev_agg.tex
 (D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex
@@ -256,7 +256,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `tab:cc_sectors' on page  undefined on input line 2.
+LaTeX Warning: Reference `tab:cc_regions' on page  undefined on input line 2.
 
 Missing character: There is no ) in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -281,7 +281,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `tab:cc_regions' on page  undefined on input line 2.
+LaTeX Warning: Reference `tab:cc_sectors' on page  undefined on input line 2.
 
 Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
@@ -465,12 +465,6 @@ Missing character: There is no U in font nullfont!
 Missing character: There is no S in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 6 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:10: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no A in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -486,12 +480,6 @@ Missing character: There is no U in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 0 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:11: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no A in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -505,12 +493,6 @@ Missing character: There is no E in font nullfont!
 Missing character: There is no L in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 6 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:12: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no B in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no l in font nullfont!
@@ -524,12 +506,6 @@ Missing character: There is no R in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no 6 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:13: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no B in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -543,12 +519,6 @@ Missing character: There is no R in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:14: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no B in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no l in font nullfont!
@@ -564,12 +534,6 @@ Missing character: There is no N in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 4 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:15: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no C in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
@@ -583,12 +547,6 @@ Missing character: There is no N in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 6 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:16: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no C in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no i in font nullfont!
@@ -601,12 +559,6 @@ Missing character: There is no P in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 9 in font nullfont!
 Missing character: There is no 6 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:17: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no C in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no p in font nullfont!
@@ -620,12 +572,6 @@ Missing character: There is no E in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 3 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:18: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no C in font nullfont!
 Missing character: There is no z in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -647,12 +593,6 @@ Missing character: There is no K in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 8 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:19: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no D in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
@@ -668,12 +608,6 @@ Missing character: There is no T in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 3 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:20: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no E in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -689,12 +623,6 @@ Missing character: There is no N in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 6 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:21: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no F in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
@@ -710,12 +638,6 @@ Missing character: There is no A in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 0 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:22: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no F in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -730,12 +652,6 @@ Missing character: There is no U in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no 6 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:23: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no G in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -751,12 +667,6 @@ Missing character: There is no C in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:24: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no G in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -771,12 +681,6 @@ Missing character: There is no N in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 8 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:25: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no H in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no n in font nullfont!
@@ -792,12 +696,6 @@ Missing character: There is no D in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 6 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:26: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no I in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
@@ -811,12 +709,6 @@ Missing character: There is no N in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 6 in font nullfont!
 Missing character: There is no 0 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:27: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no I in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
@@ -834,12 +726,6 @@ Missing character: There is no L in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no 2 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:28: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no I in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -855,12 +741,6 @@ Missing character: There is no A in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no 0 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:29: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no I in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -874,12 +754,6 @@ Missing character: There is no N in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no 9 in font nullfont!
 Missing character: There is no 2 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:30: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no J in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no p in font nullfont!
@@ -893,12 +767,6 @@ Missing character: There is no A in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 8 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:31: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no L in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -913,12 +781,6 @@ Missing character: There is no U in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 0 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:32: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no L in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -936,12 +798,6 @@ Missing character: There is no X in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 2 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:33: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no L in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no x in font nullfont!
@@ -960,12 +816,6 @@ Missing character: There is no T in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no 0 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:34: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no M in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
@@ -979,12 +829,6 @@ Missing character: There is no X in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no 4 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:35: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no M in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no x in font nullfont!
@@ -999,12 +843,6 @@ Missing character: There is no D in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 8 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:36: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no N in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -1024,12 +862,6 @@ Missing character: There is no L in font nullfont!
 Missing character: There is no 6 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 6 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:37: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no P in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no l in font nullfont!
@@ -1044,12 +876,6 @@ Missing character: There is no T in font nullfont!
 Missing character: There is no 6 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 0 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:38: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no P in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -1066,12 +892,6 @@ Missing character: There is no M in font nullfont!
 Missing character: There is no 6 in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 2 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:39: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no R in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no m in font nullfont!
@@ -1087,12 +907,6 @@ Missing character: There is no S in font nullfont!
 Missing character: There is no 6 in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 3 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:40: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no R in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -1107,12 +921,6 @@ Missing character: There is no K in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 3 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:41: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no S in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -1129,12 +937,6 @@ Missing character: There is no N in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 5 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:42: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no S in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -1151,12 +953,6 @@ Missing character: There is no R in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 0 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:43: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no S in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no u in font nullfont!
@@ -1175,12 +971,6 @@ Missing character: There is no P in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 4 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:44: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no S in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -1194,12 +984,6 @@ Missing character: There is no E in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 2 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:45: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no S in font nullfont!
 Missing character: There is no w in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -1215,12 +999,6 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no . in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:46: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no T in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no i in font nullfont!
@@ -1235,12 +1013,6 @@ Missing character: There is no R in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no 9 in font nullfont!
 Missing character: There is no 2 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:47: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no T in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -1255,12 +1027,6 @@ Missing character: There is no R in font nullfont!
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 6 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:48: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no U in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no i in font nullfont!
@@ -1282,12 +1048,6 @@ Missing character: There is no A in font nullfont!
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 0 in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:49: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no U in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no i in font nullfont!
@@ -1309,12 +1069,6 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no . in font nullfont!
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:50: Extra alignment tab has
- been changed to \cr
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no R in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -1680,7 +1434,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.00002pt too wide) in paragraph at lines 8--55
+Overfull \hbox (193.53383pt too wide) in paragraph at lines 8--55
 [][]
  []
 
@@ -1700,7 +1454,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:60: LaTeX Error: Missing \b
+D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:59: LaTeX Error: Missing \b
 egin{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2278,12 +2032,12 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 
-Overfull \hbox (116.84674pt too wide) in paragraph at lines 60--80
+Overfull \hbox (116.84674pt too wide) in paragraph at lines 59--79
 [][] 
  []
 
 
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:81: LaTeX Error: \caption o
+D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:80: LaTeX Error: \caption o
 utside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2292,7 +2046,7 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:81: LaTeX Error: Missing \b
+D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:80: LaTeX Error: Missing \b
 egin{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2445,7 +2199,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no [ in font nullfont!
 \citation{Steen_Olsen_2014}
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:81: Undefined control seque
+D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:80: Undefined control seque
 nce
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2454,7 +2208,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `Steen_Olsen_2014' on page  undefined on input line 81.
+LaTeX Warning: Citation `Steen_Olsen_2014' on page  undefined on input line 80.
 
 
 Missing character: There is no ] in font nullfont!
@@ -2487,7 +2241,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 
-D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:82: LaTeX Error: \begin{doc
+D:\KST\proj\MRIO_web_db\txt\web_db_mrio\dev_agg.tex:81: LaTeX Error: \begin{doc
 ument} ended by \end{table}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2497,12 +2251,12 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 81--83
+Overfull \hbox (20.0pt too wide) in paragraph at lines 80--82
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 81--83
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 80--82
 []
  []
 
@@ -2514,7 +2268,7 @@ Overfull \hbox (5.43053pt too wide) in paragraph at lines 81--83
 Here is how much of TeX's memory you used:
  18 strings out of 493706
  337 string characters out of 3148279
- 63139 words of memory out of 3000000
+ 62139 words of memory out of 3000000
  3437 multiletter control sequences out of 15000+200000
  3948 words of font info for 15 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191

@@ -25,5 +25,5 @@ tool_compare.tex
 tool_download.tex
 figures/web6/compare.PNG
 figures/web7/barchart.PNG
-Conclusion.tex
 figures/linechart/linechart.PNG
+Conclusion.tex

@@ -27,4 +27,4 @@ tool_download.tex
 figures/web7/barchart.PNG
 figures/linechart/linechart.PNG
 Conclusion.tex
-section_Acknowledgment_This_Environmental_Footprints__.tex
+Acknowledgment.tex

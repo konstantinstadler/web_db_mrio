@@ -18,7 +18,7 @@ dev_agg.tex
 tablereg.tex
 tableCC.tex
 Method_web.tex
-begin_table_label_tab_cc_stressors__.tex
+table_stressors.tex
 tool_desc.tex
 tool_view.tex
 figures/mrioweb/selection.PNG

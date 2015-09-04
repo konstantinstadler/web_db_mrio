@@ -18,6 +18,7 @@ dev_agg.tex
 tablereg.tex
 tableCC.tex
 Method_web.tex
+Stressors_are_available_for_these__.tex
 tool_desc.tex
 tool_view.tex
 figures/mrioweb/selection.PNG
